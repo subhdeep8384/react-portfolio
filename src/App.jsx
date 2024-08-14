@@ -6,6 +6,7 @@ import Technology from "./components/Technology";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import Preloader from "./components/Preloader";
 const App = () =>{
   return (
     <div>
@@ -17,6 +18,7 @@ const App = () =>{
 
 
       <div className="container mx-auto px-8 ">
+      {/* <Preloader /> */}
       <NavBar />
       <Hero />
       <About />

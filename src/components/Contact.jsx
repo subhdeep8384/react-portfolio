@@ -11,7 +11,7 @@ const contact = () => {
         <div className='text-center tracking-tighter text-gray-600'>
             <p className='my-4'>Jhaorda mazra burari delhi </p>
             <p className='m4-4 '> 8384077201</p>
-            <p>subhdeeppal7@gmail.com</p>
+            <p><a href="https://subhdeeppal7@gmaiil.com" target='_blank'>subhdeeppal7@gmail.com</a></p>
         </div>
       
     </div>
